@@ -1,2 +1,2 @@
 # remote-test
-Remote uoloading tests.
+Remote uploading tests.
